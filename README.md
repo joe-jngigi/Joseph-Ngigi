@@ -1,2 +1,2 @@
-### Joseph-Ngigi
+### Joseph Ngigi
 const AboutMe = ()=> return Progress loading...
