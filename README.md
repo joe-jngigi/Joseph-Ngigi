@@ -1,5 +1,5 @@
 ### Joseph Ngigi
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Joseph Ngigi
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
