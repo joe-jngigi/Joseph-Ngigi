@@ -37,7 +37,11 @@ I'm a Kenyan developer and content creator building my version of the digital wo
 
 #
 
-### 📺 Latest Projects Videos
+### TOOLS
+[x] React JS(Web)
+[X] Python
+[ ] Docker
+
 
 
 #
