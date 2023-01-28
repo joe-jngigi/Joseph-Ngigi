@@ -1,8 +1,14 @@
 ### Joseph Ngigi
 # 🏄‍♂️ Joseph Ngigi
 
-**`Developer`**
-<a href="https://app.daily.dev/joe_jngigi"><img src="https://api.daily.dev/devcards/8df8c3a9c9b0478a9c69c812579f2d8e.png?r=68r" width="350" height="" alt="Joseph Ngigi's Dev Card"/></a>
+<div display="flex" style="align-self: center; justify-content: space-between">
+   <span>
+      **`Developer`**
+   </span>
+      <a href="https://app.daily.dev/joe_jngigi"><img src="https://api.daily.dev/devcards/8df8c3a9c9b0478a9c69c812579f2d8e.png?r=68r" width="280" height="350" alt="Joseph Ngigi's Dev Card"/></a>
+   <span>
+   </span>
+</div>
 ----
 
 I'm a Kenyan developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am inspired to make productive application as I improve through my Learning Curve. Everyday is a learning day
