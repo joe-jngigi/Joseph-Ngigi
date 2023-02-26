@@ -3,7 +3,7 @@
 ----
 
 I'm a Kenyan developer building my version of the digital world one step at a time. I am Doing Web Development
-<p align="left">Put Links Here</p>
+<p align="right">Put Links Here</p>
    
 ----
 ### 🧰 Languages and Tools
