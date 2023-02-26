@@ -2,8 +2,9 @@
 `**Developer**`
 ----
 
-I'm a Kenyan developer building my version of the digital world one step at a time. I am Doing Web Development
-<p align="right">Put Links Here</p>
+<div>
+   <p align="left">I'm a Kenyan developer building my version of the digital world one step at a time. I am Doing Web Development</p>
+<p align="right"><a href="https://app.daily.dev/joe_jngigi"><img src="https://api.daily.dev/devcards/8df8c3a9c9b0478a9c69c812579f2d8e.png?r=68r" width="280" height="350" alt="Joseph Ngigi's Dev Card"/></a> </p>
    
 ----
 ### 🧰 Languages and Tools
@@ -21,7 +22,6 @@ I'm a Kenyan developer building my version of the digital world one step at a ti
 |-----------|:-----------:|-----------:|
 | React JS(Web) | Python | Docker |
 
-<a align="right" href="https://app.daily.dev/joe_jngigi"><img src="https://api.daily.dev/devcards/8df8c3a9c9b0478a9c69c812579f2d8e.png?r=68r" width="280" height="350" alt="Joseph Ngigi's Dev Card"/></a> 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)-->
 
