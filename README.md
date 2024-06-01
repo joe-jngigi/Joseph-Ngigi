@@ -2,6 +2,6 @@
 
 |About Me|Daily Dev
 |-----------------|-----------------|
-| **Frontend** . **Python** . **Data** </br> <p align="left">I'm a Kenyan developer building my version of the digital world one step at a time. </br></br></br> **`Fun Fact`**  **What is JSON?** </br> _____ </br>JSON is based on a subset of the JavaScript programming language syntax</br>It is language-independent, meaning it can be used with many languages</br> - JSON is often used to represent structured data, such as objects and arrays</p> | <p align="center"> <a href="https://app.daily.dev/joejngigi922"><img src="https://api.daily.dev/devcards/v2/MkkU9KtQPKsF9wHSBU4Rh.png?r=bbs&type=default" width="356" alt="Joseph Ngigi's Dev Card"/></a> </p> |
+| **Frontend** . **Python** . **Data** </br> <p align="left">I'm a Kenyan developer building my version of the digital world one step at a time. </br></br></br> **`Yaay!`**  **About Me?** </br> _____ </br> - My main tech is Next.js with TypeScript</br> - I write fullstack applications</br> - I am currently getting into web-3 and blockchains </br> - Email me at [Send an email](mailto:josephngigi775@gmail.com)</p> | <p align="center"> <a href="https://app.daily.dev/joejngigi922"><img src="https://api.daily.dev/devcards/v2/MkkU9KtQPKsF9wHSBU4Rh.png?r=bbs&type=default" width="356" alt="Joseph Ngigi's Dev Card"/></a> </p> |
 
 ----
